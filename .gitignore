@@ -18,6 +18,7 @@ env/
 
 # --- Training artifacts ---
 checkpoints/
+checkpoints_cpu/
 checkpoint/
 runs/
 wandb/
